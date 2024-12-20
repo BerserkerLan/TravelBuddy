@@ -1,7 +1,7 @@
 
 # TravelBuddy
 
-An Android Applicatoin to help you plan your holidays and trips.
+An Android Application to help you plan your holidays and trips.
 
 Upcoming Feature:
 - User Login and Account management
